@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    DOCKER_USER = "darninidhi2122"
+    DOCKER_USER = "rahulkrishnadevops"
     DOCKER_CRED = "dockerhub-creds"
 
     FRONTEND_IMAGE = "kubecoin-frontend"
