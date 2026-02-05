@@ -32,7 +32,7 @@ spec:
 
       containers:
         - name: backend
-          image: darninidhi2122/kubecoin-backend:testing
+          image: rahulkrishnadevops/kubecoin-backend:testing
           ports:
             - containerPort: 5000
           env:
